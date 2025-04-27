@@ -1,0 +1,34 @@
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\bin\Debug\net7.0-windows\Library Management System.exe
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\bin\Debug\net7.0-windows\Library Management System.deps.json
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\bin\Debug\net7.0-windows\Library Management System.runtimeconfig.json
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\bin\Debug\net7.0-windows\Library Management System.dll
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\bin\Debug\net7.0-windows\Library Management System.pdb
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library Management System.csproj.AssemblyReference.cache
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library_Management_System.Properties.Resources.resources
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library Management System.csproj.GenerateResource.cache
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library Management System.AssemblyInfoInputs.cache
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library Management System.AssemblyInfo.cs
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library .F7D87690.Up2Date
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library Management System.dll
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\refint\Library Management System.dll
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library Management System.pdb
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library Management System.genruntimeconfig.cache
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\ref\Library Management System.dll
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library_Management_System.Dashboard.resources
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library_Management_System.AddBooks.resources
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library_Management_System.AddStudent.resources
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library_Management_System.IssueBook.resources
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library_Management_System.IssueBookReport.resources
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library_Management_System.ReturnBook.resources
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library_Management_System.ReturnBookReport.resources
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library_Management_System.ViewBooks.resources
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library_Management_System.ViewStudent.resources
+C:\Users\ALIZA ALI\Desktop\phase_3\Library Management System\Library Management System\obj\Debug\net7.0-windows\Library_Management_System.Form1.resources
